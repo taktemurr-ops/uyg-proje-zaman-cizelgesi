@@ -16,7 +16,7 @@ dependencies:
   verimlilik_motoru:
     git:
       url: https://github.com/taktemurr-ops/verimlilik-motoru
-      ref: be8a8f3877cb8d8c6f2145c39403b0db9c941163
+      ref: 076d025bab9d9dd71c71121604d571678438b500
 
 dev_dependencies:
   flutter_test:
